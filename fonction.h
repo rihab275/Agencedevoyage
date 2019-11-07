@@ -1,1 +1,1 @@
-ajouter un fichier function.h
+	ajout du fichier function.h
